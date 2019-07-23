@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1563844912 source:c:\users\almir queiroga\downloads\projeto acc\phobeuspos\main.c
+	"TelPrincipal.h"
+
+1563849713 c:\users\almir queiroga\downloads\projeto acc\phobeuspos\telprincipal.h
+	"keyboard.h"
+	"40x40Printer.h"
+	"MenuVenda.h"
+	<conio.h>
+
+1563849714 c:\users\almir queiroga\downloads\projeto acc\phobeuspos\40x40printer.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dirent.h>
+	<conio.h>
+
+1563848725 c:\users\almir queiroga\downloads\projeto acc\phobeuspos\menuvenda.h
+	"keyboard.h"
+	"ValueCap.h"
+	<ctype.h>
+
+1563809034 c:\users\almir queiroga\downloads\projeto acc\phobeuspos\valuecap.h
+	"keyboard.h"
+	"Parcelamento.h"
+	"CapturaCartao.h"
+
+1563825063 c:\users\almir queiroga\downloads\projeto acc\phobeuspos\keyboard.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
+1563809020 c:\users\almir queiroga\downloads\projeto acc\phobeuspos\parcelamento.h
+	"keyboard.h"
+	"CapturaCartao.h"
+
+1563836129 c:\users\almir queiroga\downloads\projeto acc\phobeuspos\capturacartao.h
+	"keyboard.h"
+	"Confirmacao.h"
+
+1563836129 c:\users\almir queiroga\downloads\projeto acc\phobeuspos\confirmacao.h
+
