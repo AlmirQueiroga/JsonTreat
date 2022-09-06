@@ -1,5 +1,4 @@
 # PhobeusPOS
-Aplicação para vaga de desenvolvedor C na empresa Phobeus.
 
 
 Dificuldades e bugs encontrados, sujeitos à correção.
